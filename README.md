@@ -1,5 +1,5 @@
 # SpringBoot- Redis as cache
-Sample project which shows Redis in action as web service caching
+Sample project which shows Redis in action as web service response caching
 
 
 <h4>Installation and Getting Started</h4>
